@@ -1,0 +1,60 @@
+body , html{
+  margin: 0;
+  height: 100%;
+}
+
+
+
+
+
+.head-p{
+  margin: 0;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  position: absolute;
+  left:45%;
+  top: 30%;
+
+  font-size: 80px;
+
+  display: inline-block;
+}
+
+.btn {
+
+   border-radius: 0;
+   color: white;
+   font-family: 'Roboto', sans-serif;
+
+   font-size: 20px;
+   letter-spacing: 2px;
+   font-weight: 300;
+   font-style: normal;
+
+
+   padding: 13px;
+   background-color: black;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   border-bottom: solid white 1px;
+   position: absolute;
+   top: 60%;
+   left: 48%;
+
+   transition: 1.3s;
+
+
+
+}
+
+.btn:hover {
+   opacity: 10;
+   border: solid black 1px;
+   color:black;
+   background-color: white;
+   border-radius: 0;
+   text-decoration: none;
+
+}

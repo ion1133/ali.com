@@ -1,0 +1,245 @@
+body{
+  margin:0;
+}
+
+.btn-group .button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-right: solid 1px;
+
+  padding-left: 10.26%;
+  padding-right: 10.26%;
+
+  transition: 1.3s;
+
+  margin-bottom: 180px;
+
+}
+.but{
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+
+  padding-left: 8.26%;
+  padding-right: 8.26%;
+
+  transition: 1.3s;
+}
+
+.btn-group .button:hover {
+  color:black;
+  background-color: white;
+
+}
+
+.but:hover {
+  color:black;
+  background-color: white;
+
+}
+
+.top_p{
+  display: inline;
+  font-family: 'Roboto', sans-serif;
+  font-size: 100px;
+  position:relative;
+  left: 27%;
+
+
+  color:white;
+
+}
+
+.top_container{
+  height: 1000px;
+  margin-bottom: 50px;
+}
+
+.photo{
+    margin-top: 150px;
+    margin-left: 100px;
+    float: left;
+}
+
+.info{
+  height: 900px;
+  margin-top: 100px;
+
+  width:29%;
+  color: white;
+  font-size:40px;
+  font-family: 'Open Sans', sans-serif;
+  float: right;
+  margin-right: 200px;
+
+}
+
+.hr_1{
+  color: white;
+  border-top: dotted 10px;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  width: 60px;
+  height: auto;
+
+  padding-bottom: 70px;
+
+
+
+
+
+}
+
+
+
+.hr_2{
+  color: black;
+  border-top: dotted 5px;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  width: 60px;
+  height: auto;
+
+  position: absolute;
+  top:100px;
+  left:48.5%;
+
+
+
+
+
+
+
+}
+.ph{
+  margin-top: 40px;
+  height: 800px;
+  width:400px;
+
+}
+
+.middle_countainer{
+  position: relative;
+  left:20%;
+
+   width: 1000px;
+   height: 300px;
+   padding-bottom: 80px;
+}
+.middle_text{
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    color:white;
+    float:right;
+    width: 500px;
+
+
+
+}
+
+.pic{
+
+    width: 25%;
+    float: left;
+    position: absolute;
+    top: 40px;
+
+}
+
+
+.bottom_countainer{
+  position: relative;
+  left:20%;
+
+  margin-bottom: 30px;
+  margin-top: 10px;
+
+   width: 1000px;
+   height: 300px;
+   padding-bottom: 80px;
+}
+
+.bottom_text{
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    color:white;
+    float:left;
+    width: 500px;
+}
+
+.pic_1{
+
+    width: 25%;
+    float: right;
+    position: absolute;
+    top: 40px;
+    right:80px;
+
+}
+
+
+.contact_box{
+    margin-bottom: 0;
+    background-color: white;
+
+    width: 100%;
+    height: 200px;
+    position: relative;
+
+
+
+}
+.yfi{
+    position: absolute;
+    top:20%;
+    left: 38%;
+
+}
+
+.youtube{
+
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.instagram{
+
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.facebook{
+
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+
+.p_contact{
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    display: inline-block;
+    position: absolute;
+    top:120px;
+    left:44%;
+}
